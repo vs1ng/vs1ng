@@ -12,6 +12,6 @@
 - [Tolerence : The art of absorption](https://www.youtube.com/watch?v=s9XrJkAnNqY&t=64s)
 - [Happiness : the art of joy](https://www.youtube.com/watch?v=s27pDxWjOlA&t=18s)
 <!-- YOUTUBE:END -->
-[Helios Mass Mailing:]: heliosmassmail.great-site.net
+[Helios Mass Mailing:]: https://heliosmassmail.great-site.net/
 [My Youtube channel:]: https://www.youtube.com/channel/UCAxfwzC0SgU7UqLEL15pHuA
 [My instagram account:]: https://www.instagram.com/rustecean/
