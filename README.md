@@ -1,6 +1,6 @@
 ### Hi there, I'm Jack Doe , aka THe Unlondon.
 ## I'm a Student, Son, Developer, and Interjector!!
-- 🌱 I’m currently learning Nodejs , Javascript and Rust.
+- 🌱 I’m currently learning Nodejs , Javascript and Rust. I mostly work with Python CLI programs atm
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals : master CSS3/HTML5 and Make an OS In Rust!
 - ⚡ Fun fact: I love to listen to music and talk to my friends!
