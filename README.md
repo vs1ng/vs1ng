@@ -1,5 +1,5 @@
 ### Hi there
-## I'm a Student, Son, Developer, and Interjector!!
+## I'm a Student, Son and Python/Batch Developer!!
 - 🌱 I’m currently learning Nodejs , Javascript and Rust. I mostly work with Python CLI programs atm
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals : master CSS3/HTML5 and Make an OS In Rust!
