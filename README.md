@@ -17,6 +17,8 @@
 [My instagram account:]: https://www.instagram.com/rustecean/
 
 ### My IT related certificates:
+-Bell institue of Catering Technology
+![image](https://user-images.githubusercontent.com/90449815/153799484-c54941bb-7b06-4276-9f67-f1913cc34b94.png)
 -Indian Cybercrime and Coordination 
 ![image](https://user-images.githubusercontent.com/90449815/153768093-b3713b8a-3740-4433-bd88-7d20deeeaca7.png)
 -Comet Quiz
