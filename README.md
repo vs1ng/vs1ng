@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# and Rust. I mostly work with Python CLI programs at the moment.
 - my stats:
 ![=>](https://github-readme-stats.vercel.app/api?username=Remminauser)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remminauser)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remminauser)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
