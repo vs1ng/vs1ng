@@ -3,8 +3,15 @@
 - 🌱 I’m currently learning C# and Rust. I mostly work with Python CLI programs at the moment.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remminauser)](https://github.com/anuraghazra/github-readme-stats)
-
+<details>
+ <summary>Expand</summary>
+ 
+ <div align="center">
+  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Remminauser&count_private=true&show_icons=true&theme=github_dark" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/wakatime?username=Remminauser&layout=compact&theme=github_dark" />
+ </div>
+ 
+</details>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
