@@ -1,11 +1,9 @@
 ### Hi there
 ## I'm a Student, Son and Python/Batch Developer!!
-- 🌱 I’m currently learning Nodejs , Javascript and Rust. I mostly work with Python CLI programs atm
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals : master CSS3/HTML5 and Make an OS In Rust!
-- ⚡ Fun fact: I love to listen to music and talk to my friends!
-
----
+- 🌱 I’m currently learning C# and Rust. I mostly work with Python CLI programs at the moment.
+##My Github stats:
+![=>](https://github-readme-stats.vercel.app/api?username=Remminauser)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remminauser)](https://github.com/Remminauser/github-readme-stats)
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Silence : The beauty of nothingness](https://www.youtube.com/watch?v=FrkHFHpQDgs&t=59s)
