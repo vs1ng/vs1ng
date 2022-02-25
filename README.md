@@ -1,7 +1,7 @@
 ### Hi there
 ## I'm a Student, Son and Python/Batch Developer!!
 - 🌱 I’m currently learning C# and Rust. I mostly work with Python CLI programs at the moment.
-##My Github stats:
+- my stats:
 ![=>](https://github-readme-stats.vercel.app/api?username=Remminauser)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remminauser)](https://github.com/anuraghazra/github-readme-stats)
 
