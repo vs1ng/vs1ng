@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning C# and Rust. I mostly work with Python CLI programs at the moment.
 ##My Github stats:
 ![=>](https://github-readme-stats.vercel.app/api?username=Remminauser)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remminauser)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remminauser)](https://github.com/Remminauser/github-readme-stats)
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Silence : The beauty of nothingness](https://www.youtube.com/watch?v=FrkHFHpQDgs&t=59s)
