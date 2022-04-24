@@ -4,7 +4,7 @@
 - I keep my insignificant projects in public repo's
 
 
-
+/*
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Silence : The beauty of nothingness](https://www.youtube.com/watch?v=FrkHFHpQDgs&t=59s)
@@ -14,7 +14,7 @@
 [Helios Mass Mailing:]: https://heliosmassmail.great-site.net/
 [My Youtube channel:]: https://www.youtube.com/channel/UCAxfwzC0SgU7UqLEL15pHuA
 [My instagram account:]: https://www.instagram.com/rustecean/
-
+*/
 ### My IT related certificates:
 -Data Analytics with Python
 ![image](https://user-images.githubusercontent.com/90449815/154788730-0fc487b5-36b7-4d62-9dfb-00a593e7b419.png)
