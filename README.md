@@ -1,6 +1,7 @@
 ### Hi there
-## I'm a Student, Son and Python/Batch Developer!!
-- 🌱 I’m currently learning C# and Rust. I mostly work with Python CLI programs at the moment.
+## I'm a Java , Python , Bash and C++ Developer .
+- I work with Java-Selenium based xxs scripts , Python/Bash CLI scripts and C++ memory managemnement/bootloader applications.
+- I keep my insignificant projects in public repo's
 
 
 
