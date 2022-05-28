@@ -1,6 +1,6 @@
 ### Hi there
 ## I'm a Java , Python and Bash Developer .
-- I work with Java-Selenium based xxs scripts , Python/Bash CLI scripts Java AWT/Swing/Selenium applications.
+- I work with Python GUI , Bash and Java CLI programs !
 - I keep my insignificant projects in public repo's
 
 
@@ -16,6 +16,10 @@
 [My instagram account:]: https://www.instagram.com/rustecean/
 */
 ### My IT related certificates:
+-Classes with Java
+![image](https://user-images.githubusercontent.com/90449815/170835915-dc74ddc6-8dad-4fa6-9d0e-f0dbf3d71886.png)
+
+
 -Working with Java
 ![image](https://user-images.githubusercontent.com/90449815/170672481-1e82eec8-715c-4262-8dd3-8bcf2f5650e3.png)
 
