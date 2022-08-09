@@ -21,10 +21,10 @@
 - [Tolerence : The art of absorption](https://www.youtube.com/watch?v=s9XrJkAnNqY&t=64s)
 - [Happiness : the art of joy](https://www.youtube.com/watch?v=s27pDxWjOlA&t=18s)
 <!-- YOUTUBE:END -->
-[Helios Mass Mailing:]: https://heliosmassmail.great-site.net/
+[Helios Mass Mailing:]: http://heliosmassmail.great-site.net/
 [My Youtube channel:]: https://www.youtube.com/channel/UCAxfwzC0SgU7UqLEL15pHuA
-[My instagram account:]: https://www.instagram.com/rustecean/
-*/
+[My instagram account:]: https://www.instagram.com/usernamewithanextrauserandmore/
+
 ### My IT related certificates:
 -Object Oriented Programming with Java
 ![image](https://user-images.githubusercontent.com/90449815/171877035-832d8023-ac25-4586-b7e5-aef6519e2c70.png)
