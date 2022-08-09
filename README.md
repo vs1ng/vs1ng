@@ -2,9 +2,13 @@
 ## I'm a Java , Python and Bash Developer .
 - I work with Python GUI , Bash and Java CLI programs !
 - I keep my insignificant projects in public repo's
-
-
 /*
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vs1ng)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Silence : The beauty of nothingness](https://www.youtube.com/watch?v=FrkHFHpQDgs&t=59s)
