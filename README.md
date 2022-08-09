@@ -1,11 +1,17 @@
 ### Hi there
 ## I'm a Java , Python and Bash Developer .
 - I work with Python GUI , Bash and Java CLI programs !
-- I keep my insignificant projects in public repo's
-/*
+- My stats:
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vs1ng)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vs1ng&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+- Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vs1ng)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
