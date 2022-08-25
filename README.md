@@ -56,6 +56,17 @@
 -App Development with Learning Link Foundation
 ![image](https://user-images.githubusercontent.com/90449815/153768315-c22f2a16-c7d0-4d55-b548-ec74de0dc3e3.png)
 
+-AI Aware
+![image](https://user-images.githubusercontent.com/90449815/186701392-43c057c1-a4bb-4e81-918a-dc2a6154b58d.png)
+
+-AI Appreciate
+![image](https://user-images.githubusercontent.com/90449815/186701529-db654ffb-7d35-4990-9d96-06e564222f09.png)
+
+### Extra-Certs:
+
+AMPS-MUN 2022
+![image](https://user-images.githubusercontent.com/90449815/186700601-1a963ac4-61d4-4744-a2e6-f4c44dfe98c6.png)
+
 
 ### My Goverment-Signatured Certificates:
 -Indian Cyber Crime Coordination Centre
