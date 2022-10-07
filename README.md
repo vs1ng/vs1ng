@@ -1,6 +1,7 @@
 ### Hi there
-## I'm a Java , Python and Bash Developer .
-- I work with Python GUI , Bash and Java CLI programs !
+## I'm a Java , Python , Nim and Bash Developer .
+- I work with CLI programs mostly.
+- Shell is my favourite and most used language since it's REALLY easy and powerfull at the same time.
 - My stats:
 
 
@@ -10,7 +11,7 @@
 
 - Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vs1ng&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vs1ng&hide=html,css,php)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
