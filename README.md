@@ -26,6 +26,13 @@
 [My instagram account:]: https://www.instagram.com/usernamewithanextrauserandmore/
 
 ### My IT related certificates:
+
+
+
+
+-Edorer Masterclass
+![Vinayak Singh - Edorer Masterclass Certificate](https://github.com/vs1ng/vs1ng/assets/90449815/de57e20a-1a24-4887-bb9c-40207aac603c)
+
 -Object Oriented Programming with Java
 ![image](https://user-images.githubusercontent.com/90449815/171877035-832d8023-ac25-4586-b7e5-aef6519e2c70.png)
 
@@ -69,6 +76,10 @@ AMPS-MUN 2022
 
 
 ### My Goverment-Signatured Certificates:
+
+-Technical Aspects of Cyber Security-NCERT
+![Screenshot 2023-07-14 at 08-11-10 tacs_01014_VinayakSingh pdf](https://github.com/vs1ng/vs1ng/assets/90449815/27ba32ef-116f-4eba-941e-798eead5e4dc)
+
 -Information Security and Awareness-NCERT
 ![image](https://user-images.githubusercontent.com/90449815/199299104-4f75cd43-284e-43ff-9329-de5f67d0bc50.png)
 
