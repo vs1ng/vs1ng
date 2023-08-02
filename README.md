@@ -27,8 +27,9 @@
 
 ### My IT related certificates:
 
+-GUVI Python
 
-
+![AHAHAHAH](https://github.com/vs1ng/vs1ng/assets/90449815/92f3fa94-1ceb-4e53-a26e-bef9f54a9ee9)
 
 -Edorer Masterclass
 ![Vinayak Singh - Edorer Masterclass Certificate](https://github.com/vs1ng/vs1ng/assets/90449815/de57e20a-1a24-4887-bb9c-40207aac603c)
