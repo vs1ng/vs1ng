@@ -1,4 +1,4 @@
-### Hi there
+![20240619_135921](https://github.com/vs1ng/vs1ng/assets/90449815/12e70f6b-5465-4f4f-b2b4-897bf4c9a00e)### Hi there
 ## I'm a Java , Python , Nim and Bash Developer .
 - I work with CLI programs mostly.
 - Shell is my favourite and most used language since it's REALLY easy and powerfull at the same time.
@@ -26,6 +26,14 @@
 [My instagram account:]: https://www.instagram.com/usernamewithanextrauserandmore/
 
 ### My IT related certificates:
+
+- Rank 1 At School Level , Rank 229 International At SOF Cyber Olympiad 2023
+
+![20240619_135935](https://github.com/vs1ng/vs1ng/assets/90449815/3f0df06a-b224-4b01-b7ce-59fbd9ee9dbe)
+
+-Rank 3 At School Level At VVM 2023
+
+![image](https://github.com/vs1ng/vs1ng/assets/90449815/d0436516-e77f-42bd-bcd2-1c80426fe47e)
 
 -GUVI Python
 
@@ -70,10 +78,65 @@
 -AI Appreciate
 ![image](https://user-images.githubusercontent.com/90449815/186701529-db654ffb-7d35-4990-9d96-06e564222f09.png)
 
-### Extra-Certs:
+### Model United Nations(MUN) / Debates/ Other Events:
 
-AMPS-MUN 2022
+-AMPS-MUN 2022
 ![image](https://user-images.githubusercontent.com/90449815/186700601-1a963ac4-61d4-4744-a2e6-f4c44dfe98c6.png)
+
+-First Place , Group Discussion , Aztech Velocity 2023
+
+![image](https://github.com/vs1ng/vs1ng/assets/90449815/1c22b2d4-bc0a-46b0-afa3-920e21b34a68)
+
+![20240619_135855](https://github.com/vs1ng/vs1ng/assets/90449815/3de6cc3c-49f9-4db7-b62d-cbf93863f5cb)
+
+![cert8](https://github.com/vs1ng/vs1ng/assets/90449815/642052c5-7596-4222-b2f4-fbeb18d9e25e)
+
+-High Commendation , AIPPM , NCJPS MUN 2023
+
+![image](https://github.com/vs1ng/vs1ng/assets/90449815/7b0c7afb-c96f-447d-90d4-33f60a778f0d)
+
+![cert9](https://github.com/vs1ng/vs1ng/assets/90449815/0c209a2b-1c9f-446b-8788-681a82ca0d10)
+
+![cert4](https://github.com/vs1ng/vs1ng/assets/90449815/9dffac2a-851c-4b04-b469-6129b98d64d5)
+
+-Best Delegate ,UNGA, Educis MUN 2023
+
+![cert1](https://github.com/vs1ng/vs1ng/assets/90449815/62a931d4-80dd-4cda-9749-d3e6624e3cbb)
+
+![educis](https://github.com/vs1ng/vs1ng/assets/90449815/cde1669a-3e1e-4b3b-a2b9-df144dad1f30)
+
+-High Commendation , AIPPM , Intra-Ramjas MUN 2023
+
+![cert5](https://github.com/vs1ng/vs1ng/assets/90449815/57254a2d-19c4-4931-8283-dbc4bfdb96ea)
+
+- Verbal Mention , G20 , Inter-Ramjas MUN
+
+![20240619_135954](https://github.com/vs1ng/vs1ng/assets/90449815/304adbeb-913c-40d5-aec3-c2430129f1ad)
+
+- Lead On 2023
+
+![20240619_135904](https://github.com/vs1ng/vs1ng/assets/90449815/dafff4c1-94db-4d38-b674-f08263af7792)
+
+- Ramjas International School Golden Jubliee Annual Function 2023
+
+![cert6](https://github.com/vs1ng/vs1ng/assets/90449815/bbe9dfc3-64d5-4939-8236-e7fa9da84f81)
+
+- Ramjas International School Golden Jubliee Run 2023
+
+![cert2](https://github.com/vs1ng/vs1ng/assets/90449815/6fa95234-d1e9-40e5-a435-4a25bffb27e7)
+
+- Design Thinking Mahindra Workshop 2023
+  
+![20240619_135913](https://github.com/vs1ng/vs1ng/assets/90449815/ddfa0fc0-2c2c-4567-9cbe-aa2b249ea8da)
+
+- Basics Of Biotechnology @ National Science Center
+
+![Uploading 20240619_135921.jpg
+
+- IITM-NPTEL Workshop on Movement Topology
+
+![IMG-20240125-WA0007](https://github.com/vs1ng/vs1ng/assets/90449815/3dfc8751-8f9b-465b-9849-148d7327baab)
+
 
 
 ### My Goverment-Signatured Certificates:
