@@ -1,4 +1,4 @@
-![20240619_135921](https://github.com/vs1ng/vs1ng/assets/90449815/12e70f6b-5465-4f4f-b2b4-897bf4c9a00e)### Hi there
+### Hi there
 ## I'm a Java , Python , Nim and Bash Developer .
 - I work with CLI programs mostly.
 - Shell is my favourite and most used language since it's REALLY easy and powerfull at the same time.
@@ -131,7 +131,7 @@
 
 - Basics Of Biotechnology @ National Science Center
 
-![Uploading 20240619_135921.jpg
+![20240619_135921](https://github.com/vs1ng/vs1ng/assets/90449815/12e70f6b-5465-4f4f-b2b4-897bf4c9a00e)
 
 - IITM-NPTEL Workshop on Movement Topology
 
