@@ -1,4 +1,4 @@
-### Hi there
+![image](https://github.com/user-attachments/assets/c0358333-e27c-486a-b8bb-34dcaa81f24d)### Hi there
 ## I'm a Java , Python , Nim and Bash Developer .
 - I work with CLI programs mostly.
 - Shell is my favourite and most used language since it's REALLY easy and powerfull at the same time.
@@ -80,9 +80,23 @@
 
 ### Model United Nations(MUN) / Debates/ Other Events:
 -UN Office of Disarmament Affairs Course on Resolution 1540
+
 ![image](https://github.com/user-attachments/assets/5182ac69-6a5e-4196-a52f-51a9ae2baef8)
 
+-UN Office of Disarmament Affairs Course on Convention on Certain Conventional Weapons(CCW) and it's protocols
+
+![image](https://github.com/user-attachments/assets/c3cdf14c-f4c1-457f-b830-ffba0552ae5c)
+
+-UN Office of Disarmament Affairs Course on Treaty on the Non-Proliferation of Nuclear Weapons(NPT)
+
+![image](https://github.com/user-attachments/assets/afcb9d58-f34a-4c3e-b5ec-6a08711277d1)
+
+-UN Office of Disarmament Affairs Course on Nuclear Security
+
+![image](https://github.com/user-attachments/assets/c2224f80-fcc0-4192-97f1-749337a6be3d)
+
 -AMPS-MUN 2022
+
 ![image](https://user-images.githubusercontent.com/90449815/186700601-1a963ac4-61d4-4744-a2e6-f4c44dfe98c6.png)
 
 -First Place , Group Discussion , Aztech Velocity 2023
