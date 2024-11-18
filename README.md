@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0358333-e27c-486a-b8bb-34dcaa81f24d)### Hi there
+### Hi there
 ## I'm a Java , Python , Nim and Bash Developer .
 - I work with CLI programs mostly.
 - Shell is my favourite and most used language since it's REALLY easy and powerfull at the same time.
