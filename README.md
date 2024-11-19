@@ -83,9 +83,25 @@
 
 ![image](https://github.com/user-attachments/assets/5182ac69-6a5e-4196-a52f-51a9ae2baef8)
 
+As of 19th of November 2024 , this is the only intermediate level course in English.
+
+![image](https://github.com/user-attachments/assets/105d0fe9-15d2-40ac-a178-fa3dc817850d)
+
 -UN Office of Disarmament Affairs Course on Convention on Certain Conventional Weapons(CCW) and it's protocols
 
 ![image](https://github.com/user-attachments/assets/c3cdf14c-f4c1-457f-b830-ffba0552ae5c)
+
+-UN Office of Disarmament Affairs Course on Explosive Weapons in Populated Areas (EWIPA)
+
+![image](https://github.com/user-attachments/assets/b2e883b3-f3f3-4c73-955a-b46d76ca7514)
+
+-UN Office of Disarmament Affairs Course on Humanitarian Approaches to Nuclear Disarmament 
+
+![image](https://github.com/user-attachments/assets/edb85f8f-6d21-4f0b-a956-a9a5183fb11e)
+
+-UN Office of Disarmament Affairs Course on Reigonal Disarmament
+
+![image](https://github.com/user-attachments/assets/a62114a7-2115-47d5-bf00-b4f8fc3d002a)
 
 -UN Office of Disarmament Affairs Course on Treaty on the Non-Proliferation of Nuclear Weapons(NPT)
 
