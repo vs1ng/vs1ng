@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6d97b78a-6c66-4328-aacd-61d15fdd1f2b)### Hi there
+### Hi there
 ## I'm a Java , Python , Nim and Bash Developer .
 - I work with CLI programs mostly.
 - Shell is my favourite and most used language since it's REALLY easy and powerfull at the same time.
@@ -78,7 +78,8 @@
 -AI Appreciate
 ![image](https://user-images.githubusercontent.com/90449815/186701529-db654ffb-7d35-4990-9d96-06e564222f09.png)
 
-### Model United Nations(MUN) / Debates/ Other Events:
+### United Nations Certifiations
+
 -UN Office of Disarmament Affairs Course on Resolution 1540
 
 ![image](https://github.com/user-attachments/assets/5182ac69-6a5e-4196-a52f-51a9ae2baef8)
@@ -122,6 +123,25 @@ As of 19th of November 2024 , this is the only intermediate level course in Engl
 -UN Office of Disarmament Affairs Course on Nuclear Security
 
 ![image](https://github.com/user-attachments/assets/c2224f80-fcc0-4192-97f1-749337a6be3d)
+
+-UN Framework Convention on Climate Change certification on the National Implementation Of The Paris Agreement
+
+![image](https://github.com/user-attachments/assets/9ac147b9-0632-4ecb-b94a-d1c421e76348)
+
+-UNICEF Course on Humanitarian Access
+
+![image](https://github.com/user-attachments/assets/af15731a-4910-4075-b754-c32d771d4630)
+
+-UNICEF Course on Localisation in the Humanitarian Coordination System
+
+![image](https://github.com/user-attachments/assets/0dc70966-fce3-4d62-a3e2-59d1b9df480f)
+
+-UNICEF Course on Emergency Preparedness and Response
+
+![image](https://github.com/user-attachments/assets/8652c2cd-c97a-44d8-9560-4df4466f6ce5)
+
+
+### Model United Nations(MUN) / Debates/ Other Events:
 
 -AMPS-MUN 2022
 
@@ -221,7 +241,7 @@ As of 19th of November 2024 , this is the only intermediate level course in Engl
 -Ministery of Human Resource Development
 ![image](https://user-images.githubusercontent.com/90449815/153768608-bdf54cf0-bf90-4847-8c68-2f20cde816ed.png)
 
--Ministery of Turism
+-Ministery of Tourism
 ![image](https://user-images.githubusercontent.com/90449815/153768667-f2c3a672-ab99-49f5-874a-a38c6133a340.png)
 
 -Ministery of Health
