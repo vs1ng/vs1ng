@@ -1,24 +1,28 @@
 ### Hi there
 ## I'm a Java , Python , Nim and Bash Developer .
 - I work with CLI programs mostly.
-- Shell is my favourite and most used language since it's REALLY easy and powerfull at the same time.
-
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vs1ng&show_icons=true&theme=tokyonight)
-
-- Languages:
+- Shell is my language language of choice since it's quick and powerfull at the same time.
+- Languages Distribution:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vs1ng&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📺 Latest YouTube Videos
+# 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Silence : The beauty of nothingness](https://www.youtube.com/watch?v=FrkHFHpQDgs&t=59s)
-- [Tolerence : The art of absorption](https://www.youtube.com/watch?v=s9XrJkAnNqY&t=64s)
-- [Happiness : the art of joy](https://www.youtube.com/watch?v=s27pDxWjOlA&t=18s)
+- [*Media Shapes Wars You See. Here's how*](https://youtube.com/watch?v=lHKjmKKZg30&si=mjl6ASvZ*8H0Epp-X)
+- [*Tolerence : The art of absorption*](https://www.youtube.com/watch?v=s9XrJkAnNqY&t=64s)
+- [*Silence : The beauty of nothingness*](https://www.youtube.com/watch?v=FrkHFHpQDgs&t=59s)
 <!-- YOUTUBE:END -->
 [Helios Mass Mailing:]: http://heliosmassmail.great-site.net/
 [My Youtube channel:]: https://www.youtube.com/channel/UCAxfwzC0SgU7UqLEL15pHuA
-[My instagram account:]: https://www.instagram.com/usernamewithanextrauserandmore/
 
-### My IT related certificates:
+# My certificates are divided into the following sections:
+
+1. IT/CS/AI Related Certificates
+2. United Nations Certifications
+3. Model UN Awards & Certificates
+4. Debates Awards & Certificates
+5. Government-Authorized Certificates
+
+## IT/CS/AI related certificates:
 
 - Rank 1 At School Level , Rank 229 International At SOF Cyber Olympiad 2023
 
@@ -71,7 +75,7 @@
 -AI Appreciate
 ![image](https://user-images.githubusercontent.com/90449815/186701529-db654ffb-7d35-4990-9d96-06e564222f09.png)
 
-### United Nations Certifiations
+## United Nations Certifiations
 
 -UN Office of Disarmament Affairs Course on Resolution 1540
 
@@ -134,7 +138,7 @@ As of 19th of November 2024 , this is the only intermediate level course in Engl
 ![image](https://github.com/user-attachments/assets/8652c2cd-c97a-44d8-9560-4df4466f6ce5)
 
 
-### Model United Nations(MUN) / Debates/ Other Events:
+## Model UN/Debates/Other Events:
 
 -AMPS-MUN 2022
 
@@ -196,7 +200,7 @@ As of 19th of November 2024 , this is the only intermediate level course in Engl
 
 
 
-### My Goverment-Signatured Certificates:
+## Goverment-Signatured Certificates:
 
 -Technical Aspects of Cyber Security-NCERT
 ![Screenshot 2023-07-14 at 08-11-10 tacs_01014_VinayakSingh pdf](https://github.com/vs1ng/vs1ng/assets/90449815/27ba32ef-116f-4eba-941e-798eead5e4dc)
