@@ -2,18 +2,11 @@
 ## I'm a Java , Python , Nim and Bash Developer .
 - I work with CLI programs mostly.
 - Shell is my favourite and most used language since it's REALLY easy and powerfull at the same time.
-- My stats:
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vs1ng&show_icons=true&theme=tokyonight)
-
-
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vs1ng&show_icons=true&theme=tokyonight)
 
 - Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vs1ng&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
