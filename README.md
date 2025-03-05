@@ -1,6 +1,6 @@
 ### Hi there
-## I'm a Java , Python , Nim and Bash Developer .
-- I work with CLI programs mostly.
+## I'm a Python and Bash Developer, who's fammiliar with Java,Nim and C.
+- I work with CLI and GUI programs.
 - Shell is my language language of choice since it's quick and powerfull at the same time.
 - Languages Distribution:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vs1ng&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
