@@ -3,6 +3,7 @@
 - I work with CLI and GUI programs.
 - Shell is my language language of choice since it's quick and powerfull at the same time.
 - Languages Distribution:
+(I'm not a dedicated web developer; I just host 2 websites from this account,  hence the 77% HTML) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vs1ng&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📺 Latest YouTube Videos
