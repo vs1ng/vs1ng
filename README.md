@@ -11,11 +11,23 @@
 
 🔹 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> - A language which introduced me to Object Oriented Programming! 
 
-🌱 **Learning & Growth:**  
-📌 Currently exploring <img src="https://i.pinimg.com/originals/9c/f0/62/9cf062842a21964001796f28d3ba8c22.png" width="30"/> **Nim** for system programming – because performance matters!  
+⚡ **I work on efficiency and simplicity, using both CLI & GUI tools with a focus on speed and reusabillity.**  
 
-⚡ **I thrive on efficiency and simplicity, crafting both CLI & GUI tools with a focus on speed and automation.**  
+## 🎥 My YouTube Videos
 
+### 📌 Pakistan Hates Pakistanis
+[![Pakistan Hates Pakistanis](https://img.youtube.com/vi/fRuxFCWJrlw/hqdefault.jpg)](https://youtu.be/fRuxFCWJrlw)
+
+A powerful short video exposing enforced disappearances, honor killings, censorship, and the weaponization of law in Pakistan.
+
+---
+
+### 📌 Media Shapes the Wars You See
+[![Media Shapes the Wars You See](https://img.youtube.com/vi/lHKjmKKZg30/hqdefault.jpg)](https://youtu.be/lHKjmKKZg30)
+
+This video explores how global media distorts, filters, or manipulates how you see war, conflict, and suffering.
+
+---
 
 ## 📜 Certifications  
 
