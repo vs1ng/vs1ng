@@ -13,6 +13,12 @@
 
 ⚡ **I work on efficiency and simplicity, using both CLI & GUI tools with a focus on speed and reusabillity.**  
 
+## ✍️ My Blog Page
+
+https://vs1ng.github.io/bleeding.quiet/
+
+where I write blog posts about lesser known yet serious humanitarian crises around the world.
+
 ## 🎥 My YouTube Videos
 
 ### 📌 Pakistan Hates Pakistanis
