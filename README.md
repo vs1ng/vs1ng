@@ -15,6 +15,5 @@ Vinayak Singh this side. I'm an AI Enthusiast and Malware Analysis hobbyist.<br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Language Stats:
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vs1ng&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vs1ng&layout=compact&theme=radical&hide=html,vim%20script)
 
