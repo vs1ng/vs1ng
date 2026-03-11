@@ -10,9 +10,8 @@ Vinayak Singh this side. I'm an AI Enthusiast and Malware Analysis hobbyist.<br>
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vs1ng&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vs1ng&theme=calm_pink&hide_border=false)<br/>
+
+# Language Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vs1ng&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=html,vim%20script,perl)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# Language Stats:
-![top lang](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vs1ng&layout=compact&theme=radical&langs_count=5&hide=html,vim%20script)
